@@ -1,0 +1,30 @@
+.banner{
+    
+    background-image:url('Mie gacoan.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;     
+    
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: black;
+}
+.crop-img{
+    object-fit: cover;
+}
+.pelayanan{
+    margin: 10px;
+
+
+}
+.progress{
+   margin: 10px; 
+}
+.kontak{
+    margin: 20px;
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom:20% ;
+    color: #fff;
+}
